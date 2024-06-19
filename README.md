@@ -1,4 +1,4 @@
-# K-mer_similarity
+# Kmer_similarity
 
 K-mer similarity can be applied in important K-mers after MotifDiscovery(https://github.com/ShiuLab/MotifDiscovery) and ML-pipeline (https://github.com/bmmoore43/ML-Pipeline). This repository was developed to replace tamo scripts in the part of "Motif PCC distance using TAMO".
 
